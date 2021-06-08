@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"array": "cpp",
+			"initializer_list": "cpp",
+			"string_view": "cpp",
+			"utility": "cpp",
+			"complex": "cpp",
+			"core": "cpp",
+			"eigen": "cpp",
+			"iosfwd": "cpp",
+			"cmath": "cpp"
+		},
+		"cSpell.words": [
+			"dudrj",
+			"order",
+			"params",
+			"print"
+		]
+	}
+}
